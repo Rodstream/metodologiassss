@@ -5,3 +5,35 @@
 ¿Cómo afectan los principios de cada tipo de metodología en el trabajo colaborativo de los equipos?
 ¿Qué consideraciones específicas deben tenerse al aplicar metodologías de desarrollo web en comparación con metodologías ágiles en proyectos de gran escala?
 Consigna: Realicen un Wardley Map para identificar las relaciones y diferencias clave entre metodologías ágiles y metodologías de desarrollo web, resaltando los puntos de convergencia y divergencia.
+
+1. Diferencias entre Metodologías de Desarrollo Web y Metodologías Ágiles
+Enfoque y Objetivos:
+    . Metodologías de Desarrollo Web: Se centran en las técnicas y herramientas específicas para la creación y diseño de aplicaciones y sitios web. Incluyen enfoques como el desarrollo basado en frameworks (por ejemplo, React, Angular) y metodologías de diseño como el diseño centrado en el usuario.
+    . Metodologías Ágiles: Enfocadas en la flexibilidad, la colaboración y la respuesta al cambio. Buscan entregar valor rápidamente a través de iteraciones cortas y ciclos de retroalimentación, priorizando la satisfacción del cliente.
+
+2. Influencia en el Ciclo de Vida del Proyecto Web
+Metodologías Ágiles vs. Tradicionales:
+    . Las metodologías tradicionales suelen seguir un enfoque lineal (como el modelo Waterfall), donde cada fase debe completarse antes de pasar a la siguiente. Esto puede llevar a un largo ciclo de desarrollo y a una entrega tardía de valor.
+    . Las metodologías ágiles permiten un ciclo de vida más iterativo y adaptativo, donde el desarrollo se realiza en sprints. Esto permite ajustes rápidos según el feedback del cliente y facilita la incorporación de cambios a lo largo del proyecto.
+
+3. Situaciones para Aplicar Metodologías Ágiles
+Las metodologías ágiles son especialmente efectivas en:
+    . Proyectos con requisitos cambiantes: Donde la flexibilidad y la adaptabilidad son cruciales.
+    . Entornos de alta incertidumbre: Como startups o proyectos innovadores donde el producto final no está completamente definido.
+    . Equipos multidisciplinarios: Donde se requiere colaboración estrecha entre desarrolladores, diseñadores y clientes.
+
+4. Principios y Trabajo Colaborativo
+Impacto en el Trabajo Colaborativo:
+Metodologías Ágiles: Fomentan la comunicación constante, la colaboración y la autoorganización. Los equipos se reúnen regularmente (en reuniones diarias, retrospectivas, etc.) para evaluar el progreso y hacer ajustes.
+Metodologías de Desarrollo Web: Pueden ser más jerárquicas y menos colaborativas, dependiendo del enfoque. La interacción puede limitarse a las fases de diseño y desarrollo, lo que puede afectar la cohesión del equipo.
+
+5. Consideraciones para Proyectos de Gran Escala
+Metodologías de Desarrollo Web:
+    . En proyectos grandes, es fundamental considerar la escalabilidad, la arquitectura y las tecnologías adecuadas para manejar la complejidad.
+    . Se puede requerir un enfoque más estructurado y documentado para garantizar que todos los componentes funcionen bien juntos.
+
+Metodologías Ágiles:
+    . Al aplicar metodologías ágiles en proyectos grandes, es importante dividir el trabajo en equipos pequeños y autónomos que puedan gestionar sus propias partes del proyecto. Esto puede ayudar a mantener la agilidad y la velocidad.
+    . La coordinación entre equipos se vuelve crucial, así como el uso de herramientas de gestión de proyectos para asegurar que todos estén alineados.
+
+En resumen, mientras que las metodologías de desarrollo web se centran más en la técnica y el diseño, las metodologías ágiles ofrecen un enfoque flexible y colaborativo que puede ser más efectivo en entornos dinámicos y de alta incertidumbre.
